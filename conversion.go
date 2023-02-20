@@ -9,11 +9,11 @@ func main() {
 
 	fmt.Println(nilai32)
 	fmt.Println(nilai64)
-    fmt.Println(nilai18)
+	fmt.Println(nilai18)
 
 	var name = "wanta"
 	var e byte = name[0]
-	var eString string = string (e)
+	var eString string = string(e)
 
 	fmt.Println(name)
 	fmt.Println(eString)
